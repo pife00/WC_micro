@@ -1,6 +1,7 @@
 import re
 import requests
 from bs4 import BeautifulSoup
+
 website = "https://www.leagueoflegends.com/en-us/champions/"
 url = requests.get(website)
 
