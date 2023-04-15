@@ -320,7 +320,8 @@
             "Battlecast Prime Cho'Gath",
             "Prehistoric Cho'Gath",
             "Dark Star Cho'Gath",
-            "Shan Hai Scrolls Cho'Gath"
+            "Shan Hai Scrolls Cho'Gath",
+            "Broken Covenant Cho'Gath"
         ]
     },
     {
@@ -472,7 +473,8 @@
             "Battle Academia Ezreal",
             "PsyOps Ezreal",
             "Prestige PsyOps Ezreal",
-            "Porcelain Protector Ezreal"
+            "Porcelain Protector Ezreal",
+            "Faerie Court Ezreal"
         ]
     },
     {
@@ -506,7 +508,8 @@
             "Pulsefire Fiora",
             "Lunar Beast Fiora",
             "Prestige Lunar Beast Fiora",
-            "Bewitching Fiora"
+            "Bewitching Fiora",
+            "Faerie Court Fiora"
         ]
     },
     {
@@ -523,7 +526,8 @@
             "Fuzz Fizz",
             "Prestige Fuzz Fizz",
             "Little Devil Fizz",
-            "Prestige Fuzz Fizz (2022)"
+            "Prestige Fuzz Fizz (2022)",
+            "Astronaut Fizz"
         ]
     },
     {
@@ -701,7 +705,8 @@
             "Ivern",
             "Candy King Ivern",
             "Dunkmaster Ivern",
-            "Old God Ivern"
+            "Old God Ivern",
+            "Astronaut Ivern"
         ]
     },
     {
@@ -838,7 +843,8 @@
             "Blood Moon Kalista",
             "Championship Kalista",
             "SKT T1 Kalista",
-            "Marauder Kalista"
+            "Marauder Kalista",
+            "Faerie Court Kalista"
         ]
     },
     {
@@ -856,7 +862,8 @@
             "Dawnbringer Karma",
             "Odyssey Karma",
             "Ruined Karma",
-            "Tranquility Dragon Karma"
+            "Tranquility Dragon Karma",
+            "Faerie Queen Karma"
         ]
     },
     {
@@ -904,7 +911,9 @@
             "Battle Academia Katarina",
             "Blood Moon Katarina",
             "Battle Queen Katarina",
-            "High Noon Katarina"
+            "High Noon Katarina",
+            "Faerie Court Katarina",
+            "Prestige Faerie Court Katarina"
         ]
     },
     {
@@ -949,7 +958,8 @@
             "Blood Moon Kennen",
             "Super Kennen",
             "Infernal Kennen",
-            "DWG Kennen"
+            "DWG Kennen",
+            "Astronaut Kennen"
         ]
     },
     {
@@ -972,7 +982,8 @@
             "Shadowfire Kindred",
             "Super Galaxy Kindred",
             "Spirit Blossom Kindred",
-            "Porcelain Kindred"
+            "Porcelain Kindred",
+            "Woof and Lamb Kindred"
         ]
     },
     {
@@ -981,7 +992,8 @@
             "Kled",
             "Sir Kled",
             "Count Kledula",
-            "Marauder Kled"
+            "Marauder Kled",
+            "Kibble-Head Kled"
         ]
     },
     {
@@ -1214,6 +1226,13 @@
         ]
     },
     {
+        "name": "Milio",
+        "skins": [
+            "Milio",
+            "Faerie Court Milio"
+        ]
+    },
+    {
         "name": "Miss Fortune",
         "skins": [
             "Miss Fortune",
@@ -1233,7 +1252,9 @@
             "Prestige Bewitching Miss Fortune",
             "Ruined Miss Fortune",
             "Battle Bunny Miss Fortune",
-            "Prestige Bewitching Miss Fortune (2022)"
+            "Prestige Bewitching Miss Fortune (2022)",
+            "Broken Covenant Miss Fortune",
+            "Prestige Broken Covenant Miss Fortune"
         ]
     },
     {
@@ -1347,7 +1368,8 @@
             "Dawnbringer Nidalee",
             "Cosmic Huntress Nidalee",
             "DWG Nidalee",
-            "Ocean Song Nidalee"
+            "Ocean Song Nidalee",
+            "Kittalee"
         ]
     },
     {
@@ -1368,7 +1390,8 @@
             "Eternum Nocturne",
             "Cursed Revenant Nocturne",
             "Old God Nocturne",
-            "Hextech Nocturne"
+            "Hextech Nocturne",
+            "Broken Covenant Nocturne"
         ]
     },
     {
@@ -1511,7 +1534,8 @@
             "iG Rakan",
             "Star Guardian Rakan",
             "Elderwood Rakan",
-            "Arcana Rakan"
+            "Arcana Rakan",
+            "Broken Covenant Rakan"
         ]
     },
     {
@@ -1605,7 +1629,8 @@
             "Spirit Blossom Riven",
             "Sentinel Riven",
             "Battle Bunny Prime Riven",
-            "Prestige Valiant Sword Riven (2022)"
+            "Prestige Valiant Sword Riven (2022)",
+            "Broken Covenant Riven"
         ]
     },
     {
@@ -1687,7 +1712,8 @@
             "K/DA ALL OUT Seraphine Superstar",
             "Graceful Phoenix Seraphine",
             "Ocean Song Seraphine",
-            "Prestige Ocean Song Seraphine"
+            "Prestige Ocean Song Seraphine",
+            "Faerie Court Seraphine"
         ]
     },
     {
@@ -1732,7 +1758,8 @@
             "Pulsefire Shen",
             "Infernal Shen",
             "PsyOps Shen",
-            "Shockblade Shen"
+            "Shockblade Shen",
+            "Ashen Guardian Shen"
         ]
     },
     {
@@ -1761,7 +1788,8 @@
             "SSW Singed",
             "Black Scourge Singed",
             "Beekeeper Singed",
-            "Resistance Singed"
+            "Resistance Singed",
+            "Astronaut Singed"
         ]
     },
     {
@@ -2219,7 +2247,8 @@
             "Dark Waters Vladimir",
             "Nightbringer Vladimir",
             "Cosmic Devourer Vladimir",
-            "Cafe Cuties Vladimir"
+            "Cafe Cuties Vladimir",
+            "Broken Covenant Vladimir"
         ]
     },
     {
@@ -2280,7 +2309,8 @@
             "Elderwood Xayah",
             "Brave Phoenix Xayah",
             "Prestige Brave Phoenix Xayah",
-            "Arcana Xayah"
+            "Arcana Xayah",
+            "Broken Covenant Xayah"
         ]
     },
     {
@@ -2292,7 +2322,8 @@
             "Scorched Earth Xerath",
             "Guardian of the Sands Xerath",
             "Dark Star Xerath",
-            "Arcana Xerath"
+            "Arcana Xerath",
+            "Astronaut Xerath"
         ]
     },
     {
@@ -2360,7 +2391,8 @@
             "Heartseeker Yuumi",
             "Yuubee",
             "Bewitching Yuumi",
-            "EDG Yuumi"
+            "EDG Yuumi",
+            "Shiba Yuumi"
         ]
     },
     {

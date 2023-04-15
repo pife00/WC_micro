@@ -17,6 +17,6 @@ for index, value in enumerate(champions_skins):
 
 sorted_list = sorted(ultimate_list,key=lambda x:x['name']) 
  
-ruta = "name_skins/sample1.json"
+ruta = "name_skins/sample2.json"
 with open(ruta, "w") as outfile:
     json.dump(sorted_list, outfile, indent=4)

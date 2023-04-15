@@ -11,3 +11,5 @@ def convert(html):
 
 for html in champions_html:
     champions_skins.append(convert(html))
+
+print(champions_skins)
